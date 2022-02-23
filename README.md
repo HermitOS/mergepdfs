@@ -22,4 +22,4 @@ mergepdfs * outputfile.pdf
 ```
 
 ## Developer information:
-For information on how to build a library like this, check out: https://github.com/HermitOS/mergepdfs
+For information on how to build a library like this, check out: https://github.com/HermitOS/hermitos.github.io/blob/master/CreateAPythonLibrary.md
