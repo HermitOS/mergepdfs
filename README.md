@@ -1,7 +1,8 @@
 # mergepdfs
 
 Python command line program to merge multiple pdfs to one pdf.
-Install the program with pip
+
+Install the program with pip:
 ```
 pip install mergepdfs
 ```
